@@ -1,0 +1,8 @@
+# write a program to check no perfect or 
+def perfect_number(n):
+sum=0
+for i in range(0,n):
+     if n%x==0:
+        sum=sum+x
+        return sum==n
+print(perfect_number(n))
